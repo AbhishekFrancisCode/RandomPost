@@ -7,19 +7,8 @@
         {
             "name": "RandomPost",
             "request": "launch",
-            "type": "dart"
-        },
-        {
-            "name": "RandomPost (profile mode)",
-            "request": "launch",
             "type": "dart",
-            "flutterMode": "profile"
-        },
-        {
-            "name": "RandomPost (release mode)",
-            "request": "launch",
-            "type": "dart",
-            "flutterMode": "release"
+            "program": "lib/main.dart"
         }
     ]
 }
